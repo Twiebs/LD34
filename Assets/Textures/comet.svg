@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4717"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="comet.svg"
+   inkscape:export-filename="D:\workspace\LD34\Assets\Textures\asteroid.png"
+   inkscape:export-xdpi="53.580002"
+   inkscape:export-ydpi="53.580002">
+  <defs
+     id="defs4719">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6486">
+      <stop
+         style="stop-color:#f9ffff;stop-opacity:1"
+         offset="0"
+         id="stop6488" />
+      <stop
+         style="stop-color:#78e1ff;stop-opacity:1"
+         offset="1"
+         id="stop6490" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6486"
+       id="radialGradient6498"
+       cx="375.4032"
+       cy="377.39605"
+       fx="375.4032"
+       fy="377.39605"
+       r="205.21666"
+       gradientTransform="matrix(0.29941108,0,0,0.30537567,263.02194,262.15445)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="395.86548"
+     inkscape:cy="650.87978"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4722">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#radialGradient6498);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.80454779;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 320.18515,349.28254 c -4.23431,5.80488 -5.59534,32.34145 -5.59534,32.34145 2.0267,4.00165 4.17308,10.76535 4.38554,15.96341 -1.34797,8.67149 -1.21688,13.28769 -1.8147,19.90242 -5.71248,34.08926 23.33912,9.813 33.87449,18.24389 9.43029,2.62693 18.93186,7.79443 27.97671,-3.31707 7.81296,-6.72519 16.51272,-10.20846 26.74131,-8.10267 4.20348,10.29623 5.16493,4.25209 12.5773,5.20024 27.22318,-31.32998 12.17508,-27.47715 17.8446,-41.04876 0.19753,-13.81551 0.6714,-23.65619 -6.35147,-27.57316 -6.94186,-4.87469 -5.75653,-9.13038 -5.74656,-13.4756 -6.06627,-22.92571 -14.57425,-14.05144 -22.07891,-18.2439 -2.81043,-4.59972 -1.35806,-1.65515 0.45367,-9.95121 -11.84421,-5.51737 -12.31127,-3.13532 -18.75196,-3.31707 -10.74148,-0.32798 -18.04224,-0.18562 -17.99582,4.76829 -11.00597,-3.13983 -12.82061,4.03686 -15.87867,10.15853 l -18.29828,1.03659 c -6.88986,7.47909 -9.17434,12.09349 -11.34191,17.41462 z"
+       id="path5265"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="bounds"
+       width="430"
+       height="430"
+       x="159.75999"
+       y="169.40398"
+       inkscape:label="#rect5296"
+       inkscape:export-filename="C:\Users\Torin\asteroid.png"
+       inkscape:export-xdpi="53.580002"
+       inkscape:export-ydpi="53.580002" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2" />
+</svg>

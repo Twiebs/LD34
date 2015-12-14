@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4717"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="asteroid.svg"
+   inkscape:export-filename="D:\workspace\LD34\Assets\Textures\asteroid.png"
+   inkscape:export-xdpi="53.580002"
+   inkscape:export-ydpi="53.580002">
+  <defs
+     id="defs4719">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6486">
+      <stop
+         style="stop-color:#3c3b3e;stop-opacity:1"
+         offset="0"
+         id="stop6488" />
+      <stop
+         style="stop-color:#784421;stop-opacity:1"
+         offset="1"
+         id="stop6490" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6486"
+       id="radialGradient6498"
+       cx="375.4032"
+       cy="377.39605"
+       fx="375.4032"
+       fy="377.39605"
+       r="205.21666"
+       gradientTransform="matrix(1,0,0,0.74397196,0,96.62397)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="516.73081"
+     inkscape:cy="729.70517"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4722">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#radialGradient6498);fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="m 190.91883,308.88993 c -14.14214,14.14214 -18.68782,78.7919 -18.68782,78.7919 6.76893,9.74904 13.93761,26.22711 14.64721,38.89088 -4.50206,21.12594 -4.06426,32.37217 -6.06091,48.48731 -19.07906,83.05001 77.9501,23.90694 113.13708,44.44671 31.49613,6.39986 63.23031,18.9892 93.43911,-8.08121 26.09443,-16.38426 55.15066,-24.87039 89.31302,-19.74016 14.03918,25.08422 17.25031,10.35917 42.00681,12.66909 90.92242,-76.3277 40.66344,-66.94125 59.599,-100.0051 0.65974,-33.65805 2.2424,-57.63243 -21.2132,-67.17515 -23.18506,-11.87596 -19.22619,-22.24391 -19.1929,-32.82996 -20.26067,-55.85278 -48.67637,-34.23283 -73.74113,-44.44671 -9.38652,-11.20608 -4.53575,-4.03238 1.51522,-24.24366 -39.55834,-13.44171 -41.11829,-7.63843 -62.62946,-8.08122 -35.87538,-0.79904 -60.2591,-0.45221 -60.10407,11.61676 -36.75871,-7.64943 -42.81942,9.83481 -53.03301,24.74874 l -61.11423,2.52538 c -23.01138,18.22094 -30.64129,29.46278 -37.88072,42.4264 z"
+       id="path5265"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="bounds"
+       width="430"
+       height="430"
+       x="159.75999"
+       y="169.40398"
+       inkscape:label="#rect5296"
+       inkscape:export-filename="C:\Users\Torin\asteroid.png"
+       inkscape:export-xdpi="53.580002"
+       inkscape:export-ydpi="53.580002" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <ellipse
+       style="opacity:1;fill:#483737;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5269"
+       cx="450.02295"
+       cy="313.9407"
+       rx="23.738585"
+       ry="22.728432" />
+    <ellipse
+       style="opacity:1;fill:#483737;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5271"
+       cx="451.53818"
+       cy="428.34048"
+       rx="40.406101"
+       ry="34.092648" />
+    <ellipse
+       style="opacity:1;fill:#483737;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5273"
+       cx="281.07495"
+       cy="463.44327"
+       rx="39.648487"
+       ry="32.829956" />
+    <ellipse
+       style="opacity:1;fill:#483737;fill-opacity:1;stroke:#000000;stroke-width:2.89421225;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5273-0"
+       cx="272.85715"
+       cy="320.21933"
+       rx="24.987095"
+       ry="17.454279" />
+    <ellipse
+       style="opacity:1;fill:#483737;fill-opacity:1;stroke:#000000;stroke-width:3.18331385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5273-0-3"
+       cx="368.57144"
+       cy="369.14792"
+       rx="24.842545"
+       ry="21.2383" />
+    <ellipse
+       style="opacity:1;fill:#483737;fill-opacity:1;stroke:#000000;stroke-width:3.18331385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5273-0-3-5"
+       cx="385"
+       cy="281.64792"
+       rx="24.842545"
+       ry="21.2383" />
+    <ellipse
+       style="opacity:1;fill:#483737;fill-opacity:1;stroke:#000000;stroke-width:3.18331385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5273-0-3-8"
+       cx="371.42859"
+       cy="448.07651"
+       rx="24.842545"
+       ry="21.2383" />
+    <ellipse
+       style="opacity:1;fill:#483737;fill-opacity:1;stroke:#000000;stroke-width:3.18331385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5273-0-3-8-6"
+       cx="237.14287"
+       cy="367.36221"
+       rx="24.842545"
+       ry="21.2383" />
+    <ellipse
+       style="opacity:1;fill:#483737;fill-opacity:1;stroke:#000000;stroke-width:3.18331385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5273-0-3-8-6-7"
+       cx="527.14288"
+       cy="356.64792"
+       rx="24.842545"
+       ry="21.2383" />
+  </g>
+</svg>
